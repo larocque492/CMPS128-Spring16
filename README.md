@@ -64,8 +64,8 @@ but we expect you to come to the table with enough programming knowledge and exp
 |-------|---------|
 | Homeworks | 20% |
 | Participation | 5% |
-| Midterm | 20% |
-| Project | 35% |
+| Midterm | 15% |
+| Project | 30% |
 | Final   | 30%   | 
 
 Final projects are required to pass the course.  The fact that participation accounts for 5% of the grade should give you an idea of the important of class attendance.  
