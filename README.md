@@ -14,7 +14,15 @@
 
 This course will explore fundamental as well as emerging topics in distributed systems.
 
-Due to fundamental uncertainty in their executions arising from asynchronous communication and partial failure, distributed systems present unique challenges to programmers and users.  Moreover, distributed systems are increasingly ubiquitous: nearly all non-trivial systems are now physically distributed.  It is no longer possible to relegate responsibility for managing the complexity of distributed systems to a group of expert library or infrastructure writers: all programmers must now be distributed programmers. This is both a crisis and an opportunihis course focuses on these systems, models and languages.  
+Distributed systems are notoriously difficult to program, and even harder to reason about.  
+Much of this difficulty arises from *uncertainty* in their executions.  Uncertainty about the ordering and timing
+of events and communication give rise to concerns about the *consistency* of program outputs and states.
+Uncertainty about what may go wrong during an execution (e.g., computers crashing, messages being lost) gives rise to concerns
+about the *completeness* of these outputs and states.  Together, these sources of uncertainty make achieving even relatively modest
+guarantees in large-scale systems extremely difficult.
+
+While distributed systems have been studied for some time, they have only recently become essentially ubiquitous:
+nearly all non-trivial systems are now physically distributed.  It is no longer possible to relegate responsibility for managing the complexity of distributed systems to a group of expert library or infrastructure writers: all programmers must now be distributed programmers. This is both a crisis and an opportunity.
 
 This course will cover both theoretical and practical aspects of distributed systems and distributed programming, including:
  
