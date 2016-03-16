@@ -46,7 +46,8 @@ One of the purposes of CMPS128 is to familiarize you with practical aspects of i
 require the cooperation of some number of physical machines.  Hence system building is a critical part of the course.
 While CMPS128 will involve a substantial implementation component, we will not be teaching any particular language.
 That is to say, you are here to build *distributed* systems, 
-but we expect you to come to the table with enough programming knowledge and experience to build non-distributed systems with minimal guidance.
+but we expect you to come to the table with enough programming knowledge and experience to build non-distributed systems with minimal guidance.  Regardless of the coursework you have undertaken, if you are not comfortable using programming languages 
+(e.g. C, Java, Python, Ruby, Scala, Erlang, Bloom -- pick your poison) to build systems, this course is not for you.
 
 
 
