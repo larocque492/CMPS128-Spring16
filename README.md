@@ -6,6 +6,8 @@
 |Where: | PhysSciences 114 |
 |Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
 |Office hours: | Tue/Thu 1-2PM |
+|Lab location: | Baskin Engineering, room 105 <b> but this may change! </b>|
+|Lab hours: | Tue/Thu 12-1:45PM <b> but this may change!</b>|
 |Prerequisites: | CMPS101 or CE150 required. CMPS111 or CMPS105 recommended. |
 |Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
 
