@@ -4,11 +4,10 @@
 |-----|-------|
 |When: | Tuesdays and Thursdays at <b>2 PM</b>. |
 |Where: | PhysSciences 114 |
-|Who: | Peter Alvaro |
+|Who: | [Peter Alvaro](http://people.ucsc.edu/~palvaro/) |
 |Office hours: | Tue/Thu 1-2PM |
 |Prerequisites: | CMPS101 or CE150 required. CMPS111 or CMPS105 recommended. |
 |Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
-|Readings: | [Readings](https://github.com/palvaro/CMPS290S-Winter16/blob/master/readings.md) (volatile; subject to significant change)|
 
 # Description
 
