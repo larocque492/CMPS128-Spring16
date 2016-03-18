@@ -54,11 +54,21 @@ but we expect you to come to the table with enough programming knowledge and exp
  
 # Assigments and Grading
 
+Assignments will be posted on a separate change.  They will usually be posted before they are announced, but they are subject to change until announcement.  If we need to change an assigment after it was announced, we will email the class about the change.
+
+Assigments announcements will always include a due date.  Late assignments are not accepted.
+
 ## Homeworks
 
+There will be ~4 homeworks over the quarter.  Homeworks typically involve topics covered in class and/or readings, but may also include a programming assignment.
 
 ## Final Project
 
+The final project will involve implementing and managing fault-tolerant distributed system.  This will be a substantial enginering effort, and we encourage you to work in teams of up to three people.
+
+## Examinations
+
+There will be two examinations: the midterm and the final.
 
 ## Grading
 
@@ -77,7 +87,3 @@ Final projects are required to pass the course.  The fact that participation acc
 Collaboration is a key part of research.  I encourage you to discuss the readings and the final project ideas with your classmates.  However, you must reveal the students with whom you discussed the papers in your summaries.  Failure to do so will result in formal disciplinary proceedings.  
 
 I should not need to say so, but I do: plagiarism in any form is not acceptable and will not be tolerated.  As researchers, we always stand upon the shoulders of giants, and building upon existing work is the norm.  It is essential, however, that we provide proper attribution.  When in doubt, cite!  
-
-
-
-
