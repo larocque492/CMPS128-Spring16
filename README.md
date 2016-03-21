@@ -1,4 +1,4 @@
-# CMPS290S-Winter16: 
+# CMPS128 Spring 2016 
 ## Distributed Systems
 | key | value | 
 |-----|-------|
