@@ -54,11 +54,9 @@ but we expect you to come to the table with enough programming knowledge and exp
  
 # Assigments and Grading
 
+## Pop quizzes
 
-
-## Homeworks
-
-There will be ~4 homeworks over the quarter.  Homeworks typically involve topics covered in class and/or readings, but may also include a programming assignment.
+To ensure that everyone keeps up with the reading and attends class, we will hold a small number of pop quizzes.  Students who do not attend class on the day of a pop quiz will not receive credit.  If you need to miss class, please email the professor or TA *before* the absence with a brief explanation of the cause.
 
 ## Final Project
 
@@ -68,13 +66,10 @@ The final project will be divided into four sub-projects, coming due roughly eve
 
 Project specifications will be posted on a separate page and announced on Piazza.  They will usually be posted before they are announced, but they are subject to change until announcement.  If we need to change an assigment after it was announced, we will email the class about the change.
 
-Assigments announcements will always include a due date.  <del>Late assignments are not accepted</del>.  
+Assigments announcements will always include a due date.  
 
-Late assignments will forfeit 10% of the grade for every day late.  Students are granted *one grace day* that they may use for any assignment submission to avoid this penalty.
+<del>Late assignments are not accepted</del>.  Late assignments will forfeit 10% of the grade for every day late.  Students are granted *one grace day* that they may use for any assignment submission to avoid this penalty.
 
-## Pop quizzes
-
-To ensure that everyone keeps up with the reading and attends class, we will hold a small number of pop quizzes.  Students who do not attend class on the day of a pop quiz will not received credit.  If you need to miss class, please email the professor or TA *before* the absence with a brief explanation of the cause.
 
 ## Examinations
 
