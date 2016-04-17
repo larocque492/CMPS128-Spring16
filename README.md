@@ -10,6 +10,7 @@
 |Lab hours: | Tue/Thu 12-1:45PM |
 |Prerequisites: | CMPS101 or CE150 required. CMPS111 or CMPS105 recommended. |
 |Text: | [Distributed Systems](http://www.amazon.com/Distributed-Systems-Concepts-Design-5th/dp/0132143011/), Coulouris et al.|
+|Readings: | [Readings](materials/readings.md)|
 
 # Description
 
