@@ -7,4 +7,4 @@
 |Network and Failure models (Sections 2.4-2.5 in 5th Edition) |4/12 |
 |Replication (Sections 18.1-18.3 in 5th Edition ) | 4/14 | 
 |No reading! | 4/19, 4/21 |
-| (http://research.microsoft.com/pubs/206913/ConsistencyAndBaseballCACMAccepted.pdf)[Consistency explained through baseball] | 4/26, 4/28| 
+| [Consistency explained through baseball](http://research.microsoft.com/pubs/206913/ConsistencyAndBaseballCACMAccepted.pdf) | 4/26, 4/28| 
