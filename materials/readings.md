@@ -8,3 +8,5 @@
 |Replication (Sections 18.1-18.3 in 5th Edition ) | 4/14 | 
 |No reading! | 4/19, 4/21 |
 | [Consistency explained through baseball](http://research.microsoft.com/pubs/206913/ConsistencyAndBaseballCACMAccepted.pdf) | 4/26, 4/28| 
+|MIDTERM!| 5/3|
+|Agreement protocols, Part I: Sections 15.1-15.3, 17.3| 5/5| 
