@@ -10,3 +10,5 @@
 | [Consistency explained through baseball](http://research.microsoft.com/pubs/206913/ConsistencyAndBaseballCACMAccepted.pdf) | 4/26, 4/28| 
 |MIDTERM!| 5/3|
 |Agreement protocols, Part I: Sections 15.1-15.3, 17.3| 5/5| 
+|Agreement protocols, Part II: Sections 15.4-15.5| 5/24 |
+|Google case study: Chapter 21 | 5/26 |
